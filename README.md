@@ -14,9 +14,7 @@ The project demonstrates how core programming concepts such as **variables, user
 Variables were used to store and manipulate data such as numbers, user inputs, and intermediate results.  
 This allowed values to be reused throughout the program and enabled dynamic calculations.
 
-Example:
-```python
-name = input("Enter your name: ")
+---
 
 # Day 1 Task 1
 https://colab.research.google.com/drive/1bnp-KFWR1o-Iw7-No0d7LPPBhnNi5kTf?usp=sharing
