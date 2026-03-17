@@ -1,23 +1,47 @@
-# My-Phyton-Basics-Project – Data Technician Bootcamp
+# 🐍 Python Fundamentals Project – Data Technician Bootcamp
 
-## Overview
-This project was completed as part of a **Data Technician Bootcamp (Week 6 Python Workbook)**.  
-The goal of the exercises was to develop foundational Python programming skills and apply them to build logical programs, perform calculations, and create interactive command-line applications.
+This project was completed as part of a **Data Technician Bootcamp**, where I developed core Python programming skills through hands-on exercises and problem-solving tasks.
 
-The project demonstrates how core programming concepts such as **variables, user input, loops, and conditional logic** can be combined to solve common programming problems.
+The project focuses on building logic, performing calculations, and interacting with users using fundamental Python concepts.
 
 ---
 
-## Skills Demonstrated
+## 🚀 Key Skills Demonstrated
 
-### Variables
-Variables were used to store and manipulate data such as numbers, user inputs, and intermediate results.  
-This allowed values to be reused throughout the program and enabled dynamic calculations.
+### 🧠 Core Programming Concepts
+- Using **variables** to store and manipulate data  
+- Applying **type casting** to convert between data types  
+- Writing clear output using the `print()` function  
+- Capturing user input with the `input()` function  
 
 ---
 
-# Day 1 Task 1
-https://colab.research.google.com/drive/1bnp-KFWR1o-Iw7-No0d7LPPBhnNi5kTf?usp=sharing
+### 🔀 Control Flow & Logic
+- Using **if / elif / else statements** to control program flow  
+- Building logical conditions to make decisions  
+- Solving problems step-by-step using structured logic  
 
-# Day 2 Task 1
-https://colab.research.google.com/drive/1eUoDbry4tB_KW5lklBIvh_3og93e8qWZ?usp=sharing
+---
+
+### 🔁 Loops & Iteration
+- Using **for loops** to iterate over ranges and datasets  
+- Using **while loops** for repeated execution based on conditions  
+- Automating repetitive tasks efficiently  
+
+---
+
+## 💡 Project Example – FizzBuzz
+
+A classic programming challenge used to demonstrate logic and control flow:
+
+```python
+# Loop through numbers from 1 to 100
+for i in range(1, 101):
+    if i % 3 == 0 and i % 5 == 0:
+        print("fizzbuzz")
+    elif i % 3 == 0:
+        print("fizz")
+    elif i % 5 == 0:
+        print("buzz")
+    else:
+        print(i)
