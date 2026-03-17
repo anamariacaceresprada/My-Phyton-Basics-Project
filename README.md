@@ -30,11 +30,9 @@ The project focuses on building logic, performing calculations, and interacting 
 
 ---
 
-## Link to Colab workbook Day 1 - Task 1
-https://colab.research.google.com/drive/1bnp-KFWR1o-Iw7-No0d7LPPBhnNi5kTf?usp=sharing
+[Link to Colab workbook Day 1 - Task 1](https://colab.research.google.com/drive/1bnp-KFWR1o-Iw7-No0d7LPPBhnNi5kTf?usp=sharing)
 
-## Link to Colab workbook Day 2 - Task 1
-https://colab.research.google.com/drive/1eUoDbry4tB_KW5lklBIvh_3og93e8qWZ?usp=sharing
+[Link to Colab workbook Day 2 - Task 1](https://colab.research.google.com/drive/1eUoDbry4tB_KW5lklBIvh_3og93e8qWZ?usp=sharing)
 
 ---
 
