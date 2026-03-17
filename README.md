@@ -29,6 +29,7 @@ The project focuses on building logic, performing calculations, and interacting 
 - Automating repetitive tasks efficiently  
 
 ---
+## Examples of Project Exercises
 
 [Link to Colab workbook Day 1 - Task 1](https://colab.research.google.com/drive/1bnp-KFWR1o-Iw7-No0d7LPPBhnNi5kTf?usp=sharing)
 
